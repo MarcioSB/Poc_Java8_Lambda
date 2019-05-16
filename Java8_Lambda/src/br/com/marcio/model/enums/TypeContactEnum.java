@@ -1,6 +1,6 @@
 package br.com.marcio.model.enums;
 
-public enum TipoContatoEnum {
+public enum TypeContactEnum {
 	CASA, TRABALHO, RECADO;
 }
 

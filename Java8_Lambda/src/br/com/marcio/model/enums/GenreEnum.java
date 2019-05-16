@@ -1,6 +1,6 @@
 package br.com.marcio.model.enums;
 
-public enum SexoEnum {
+public enum GenreEnum {
 	FEMININO, MASCULINO;
 }
 
