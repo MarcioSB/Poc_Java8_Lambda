@@ -15,4 +15,5 @@ Examples:
  * Interface functional.
  * Consumer and consumer compost.
  * RemoveIf.
- * Sort with comparator and comparator auto boxing;
+ * Sort with comparator and comparator auto boxing.
+ * Access in methods and constructor withreference.
